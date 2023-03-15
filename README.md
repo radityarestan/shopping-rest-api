@@ -16,7 +16,7 @@ Repo ini dibuat menggunakan 2 hal, yakni:
 3. Aplikasi ini dibuat menggunakan ORM Sequelize
 
 ERD dari aplikasi ini adalah sebagai berikut:
-![ERD]()
+![ERD](https://github.com/radityarestan/shopping-rest-api/blob/master/pic/shopping-erd.png?raw=true)
 
 Saat menjalankan aplikasi, aplikasi akan otomatis membuat struktur tabel di sql dan juga data seeding yang ada pada folder `seeders`. Data seeding ini akan membuat 2 user yang nantinya akan dipakai yakni user dengan id 1 dan 2. Selain itu, kategori produk, produk, dan discount juga akan dibuat secara otomatis.
 
